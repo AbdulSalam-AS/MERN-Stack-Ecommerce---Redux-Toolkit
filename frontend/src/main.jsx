@@ -37,7 +37,7 @@ import ProductReviews from "./component/admin/ProductReviews";
 import NotFound from "./component/layout/Not Found/NotFound.jsx";
 
 const stripeApiKey =
-  "pk_test_51QPmsqErckp3bd9nYggY1VI26MG6Gi43bluBTJljLw52aaAAwuyimASwWaA9DQ117tuHB3ktpM4kU0gF9Vxwttf200a8M2jLgp";
+  "";
 
 const router = createBrowserRouter([
   {
